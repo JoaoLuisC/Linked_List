@@ -1,0 +1,57 @@
+body {
+  background-color:#44475a;
+  color: rgb(231, 229, 229);
+}
+#mensagem-remocao{
+  background-color: rgba(34, 10, 46, 0.397);
+  color: rgb(231, 229, 229);
+  border: none;
+}
+.jumbotron {
+  padding: 2rem;
+  margin-bottom: 2rem;
+  background-color: #2e3440;
+  border-radius: 0.3rem;
+}
+
+.footer {
+  padding: 2rem;
+  margin-bottom: 2rem;
+  background-color: #2e3440;
+  border-radius: 0.3rem;
+  font-size: 2em;
+}
+  
+.jumbotron h1 {
+  font-size: 3rem;
+  font-weight: 500;
+  color: #fff;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin-top: 20px;
+}
+
+li {
+	padding: 5px;
+	background-color: #373f50;
+	border-radius: 5px;
+	margin-bottom: 5px;
+}
+
+li:hover {
+  background-color: #5d677ed0;
+}
+
+.btn_add{
+  background-color: #4B0082;
+  border: none;
+  color: rgb(231, 229, 229);
+}
+.btn_add:hover{
+  background-color: #4B0082;
+  border: none;
+  color: rgb(231, 229, 229);
+}
